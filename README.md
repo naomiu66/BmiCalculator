@@ -1,13 +1,18 @@
 # Quick start
 
-1) install dependencies
+1) open project folder
+```bash
+cd bmiCalculator
 ```
+
+3) install dependencies
+```bash
 npm install
 ```
 
-2) start project
-```
+3) start project
+```bash
 npm start
 ```
 
-3) open http://localhost:3000
+4) open http://localhost:3000
